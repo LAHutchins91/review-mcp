@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.LAHutchins91/review",
+  "title": "Review",
+  "description": "Approved public replies to customer reviews.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/LAHutchins91/review-mcp",
+    "source": "github"
+  }
+}
