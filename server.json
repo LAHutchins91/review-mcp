@@ -7,5 +7,17 @@
   "repository": {
     "url": "https://github.com/LAHutchins91/review-mcp",
     "source": "github"
-  }
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://review-continuity2.vercel.app/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/LAHutchins91/review-mcp/main/logo.jpg",
+      "mimeType": "image/jpeg"
+    }
+  ]
 }
